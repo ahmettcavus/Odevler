@@ -1,0 +1,24 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form2.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form3.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YMS3148\2-C#\05.07\WFA_RuntimeControls\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form4.resources
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.exe.config
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.exe
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\bin\Debug\WFA_RuntimeControls.pdb
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form3.resources
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Form4.resources
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.Properties.Resources.resources
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.exe
+C:\Users\ahmet\Desktop\YMS-3148 github\2-Introduction\05.07\WFA_RuntimeControls-1\WFA_RuntimeControls\obj\Debug\WFA_RuntimeControls.pdb

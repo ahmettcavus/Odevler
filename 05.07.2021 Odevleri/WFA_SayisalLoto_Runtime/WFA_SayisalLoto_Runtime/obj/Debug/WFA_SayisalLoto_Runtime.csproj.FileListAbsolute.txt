@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\bin\Debug\WFA_SayisalLoto_Runtime.exe.config
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\bin\Debug\WFA_SayisalLoto_Runtime.exe
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\bin\Debug\WFA_SayisalLoto_Runtime.pdb
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.Form1.resources
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.Properties.Resources.resources
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.exe
+C:\Users\ahmet\source\repos\WFA_SayisalLoto_Runtime\WFA_SayisalLoto_Runtime\obj\Debug\WFA_SayisalLoto_Runtime.pdb

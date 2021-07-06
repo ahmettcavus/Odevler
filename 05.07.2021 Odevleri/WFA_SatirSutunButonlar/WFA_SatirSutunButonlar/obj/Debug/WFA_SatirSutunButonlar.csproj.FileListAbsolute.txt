@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\bin\Debug\WFA_SatirSutunButonlar.exe.config
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\bin\Debug\WFA_SatirSutunButonlar.exe
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\bin\Debug\WFA_SatirSutunButonlar.pdb
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.Form1.resources
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.Properties.Resources.resources
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.exe
+C:\Users\ahmet\source\repos\WFA_SatirSutunButonlar\WFA_SatirSutunButonlar\obj\Debug\WFA_SatirSutunButonlar.pdb
